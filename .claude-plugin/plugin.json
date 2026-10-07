@@ -1,6 +1,6 @@
 {
   "name": "yaid-certification-coach",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Choose a Claude certification, practise with YAID questions, understand your gaps and plan evidence of your consulting skills.",
   "author": {
     "name": "Your AI Department",
@@ -11,11 +11,14 @@
   "keywords": [
     "AI certification",
     "Claude certification",
+    "Anthropic certification",
     "CCAR-F",
     "CCDV-F",
     "CCAO-F",
     "CCAR-P",
     "practice exams",
+    "mock exams",
+    "study plans",
     "AI consultant skills",
     "client trust"
   ],
