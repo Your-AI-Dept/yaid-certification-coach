@@ -1,0 +1,30 @@
+{
+  "name": "yaid-certification-coach",
+  "version": "0.1.0",
+  "description": "Choose a Claude certification, practise with YAID questions, understand your gaps and plan evidence of your consulting skills.",
+  "author": {
+    "name": "Your AI Department",
+    "email": "contact@youraidept.com",
+    "url": "https://youraidept.com/"
+  },
+  "homepage": "https://youraidept.com/network/claude-certification-practice-exam",
+  "keywords": [
+    "AI certification",
+    "Claude certification",
+    "CCAR-F",
+    "CCDV-F",
+    "CCAO-F",
+    "CCAR-P",
+    "practice exams",
+    "AI consultant skills",
+    "client trust"
+  ],
+  "displayName": "YAID Certification Coach",
+  "repository": "https://github.com/Your-AI-Dept/yaid-certification-coach",
+  "license": "LicenseRef-YAID",
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://youraidept.com/network/claude-certification-practice-exam",
+  "supportUrl": "https://youraidept.com/faq",
+  "privacyPolicyUrl": "https://yaid-certification-coach.vercel.app/privacy",
+  "termsOfServiceUrl": "https://youraidept.com/terms-of-service"
+}

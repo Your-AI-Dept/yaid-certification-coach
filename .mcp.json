@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yaid-coach": {
+      "type": "http",
+      "url": "https://yaid-certification-coach.vercel.app/mcp"
+    }
+  }
+}

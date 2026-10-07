@@ -1,0 +1,15 @@
+{
+  "name": "yaid-certification",
+  "owner": {
+    "name": "Your AI Department",
+    "email": "contact@youraidept.com"
+  },
+  "plugins": [
+    {
+      "name": "yaid-certification-coach",
+      "source": "./",
+      "description": "Choose a Claude certification, practise with YAID questions, understand your gaps and plan evidence of your consulting skills."
+    }
+  ],
+  "description": "YAID tools for Claude certification practice and consulting skills."
+}
